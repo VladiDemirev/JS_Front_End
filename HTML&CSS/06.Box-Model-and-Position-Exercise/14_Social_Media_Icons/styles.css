@@ -1,0 +1,39 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css');
+
+body{
+    margin: 3em;
+    border: 1px solid black;
+    max-width: fit-content;
+}
+
+ul {
+    list-style: none;
+    padding: 1em 2em;
+}
+
+li {
+    display: inline-block;
+    padding-right: 0.7em; 
+} 
+
+/* i {
+    border: 13px solid lightgrey;
+    border-radius: 50%;
+    background-color: lightgrey;
+} */
+
+/* i:hover {
+    background-color: red;
+} */
+
+svg {
+    display: block;
+    width: 1em;
+    border: 13px solid lightgrey;
+    border-radius: 50%;
+    background-color: lightgrey;
+}
+
+svg:hover {
+    fill: grey;
+}

@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 70px 40px 30px
+}
+
+header {
+    position: relative;
+    border-bottom: solid 2px darkgrey;
+}
+
+nav {
+    position: absolute;
+    right: 8em;
+    bottom: 0;
+    padding-bottom: 1.7em
+}
+
+a {
+    display: inline-block;
+    text-decoration: none;
+    color: grey;
+}
